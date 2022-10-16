@@ -1,7 +1,7 @@
-package com.PPlabs.lr3.droid;
+package com.PPlabs.PP_lr3.droid;
 
 
-import com.PPlabs.lr3.Color;
+import com.PPlabs.PP_lr3.Color;
 
 public abstract class DroidBase {
 

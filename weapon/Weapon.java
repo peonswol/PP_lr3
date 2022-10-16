@@ -1,4 +1,4 @@
-package com.PPlabs.lr3.weapon;
+package com.PPlabs.PP_lr3.weapon;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.PPlabs.lr3.droid;
+package com.PPlabs.PP_lr3.droid;
 
 public class DroidA3 extends DroidBase {
 

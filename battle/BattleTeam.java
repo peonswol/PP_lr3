@@ -1,8 +1,8 @@
-package com.PPlabs.lr3.battle;
+package com.PPlabs.PP_lr3.battle;
 
-import com.PPlabs.lr3.Color;
-import com.PPlabs.lr3.droid.DroidBase;
-import com.PPlabs.lr3.play.Arena;
+import com.PPlabs.PP_lr3.Color;
+import com.PPlabs.PP_lr3.droid.DroidBase;
+import com.PPlabs.PP_lr3.play.Arena;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -10,12 +10,12 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-import static com.PPlabs.lr3.play.PlayDroidsBattleGame.printAndWrite;
+import static com.PPlabs.PP_lr3.play.PlayDroidsBattleGame.printAndWrite;
 
 public class BattleTeam extends BattleOne {
 
-    private List<DroidBase> firstTeam = new ArrayList<>();
-    private List<DroidBase> secondTeam = new ArrayList<>();
+    private final List<DroidBase> firstTeam = new ArrayList<>();
+    private final List<DroidBase> secondTeam = new ArrayList<>();
     private String nameFirstTeam;
     private String nameSecondTeam;
     private int countWinFirstTeam;

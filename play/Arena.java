@@ -1,7 +1,7 @@
-package com.PPlabs.lr3.play;
+package com.PPlabs.PP_lr3.play;
 
-import com.PPlabs.lr3.Color;
-import com.PPlabs.lr3.droid.DroidBase;
+import com.PPlabs.PP_lr3.Color;
+import com.PPlabs.PP_lr3.droid.DroidBase;
 
 import java.util.Scanner;
 

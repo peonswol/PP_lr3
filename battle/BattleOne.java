@@ -1,14 +1,14 @@
-package com.PPlabs.lr3.battle;
-import com.PPlabs.lr3.Color;
-import com.PPlabs.lr3.droid.*;
-import com.PPlabs.lr3.play.Arena;
-import com.PPlabs.lr3.weapon.Weapon;
+package com.PPlabs.PP_lr3.battle;
+import com.PPlabs.PP_lr3.Color;
+import com.PPlabs.PP_lr3.droid.*;
+import com.PPlabs.PP_lr3.play.Arena;
+import com.PPlabs.PP_lr3.weapon.Weapon;
 
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
-import static com.PPlabs.lr3.play.PlayDroidsBattleGame.printAndWrite;
+import static com.PPlabs.PP_lr3.play.PlayDroidsBattleGame.printAndWrite;
 
 
 public class BattleOne {

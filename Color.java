@@ -1,4 +1,4 @@
-package com.PPlabs.lr3;
+package com.PPlabs.PP_lr3;
 
 public class Color {
     public static final String YELLOW = "\u001B[33m";

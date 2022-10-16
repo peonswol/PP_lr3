@@ -1,6 +1,6 @@
-package com.PPlabs.lr3;
+package com.PPlabs.PP_lr3;
 
-import com.PPlabs.lr3.play.PlayDroidsBattleGame;
+import com.PPlabs.PP_lr3.play.PlayDroidsBattleGame;
 
 import java.io.IOException;
 
