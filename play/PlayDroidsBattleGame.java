@@ -50,7 +50,6 @@ public class PlayDroidsBattleGame {
                         battle.play();
                     }
 
-                    //TODO case 1
                     case 4 -> System.out.println("GAME IS OVER");
 
                     default -> {

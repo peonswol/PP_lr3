@@ -48,7 +48,6 @@ public class BattleTeam extends BattleOne {
 
     private void creatingTeams(Scanner scan) {
 
-        // TODO CHECK DO-WHILE
         while (true) {
             setTypeDroidTeams(scan);
 
@@ -179,8 +178,6 @@ public class BattleTeam extends BattleOne {
 
             attacker.setEnergy(attacker.getEnergy() - 1);
 
-
-            //TODO додати метод
             if (!defender.isAlive()) {
 
                 if (defender.isGotHelpHealth()) {
